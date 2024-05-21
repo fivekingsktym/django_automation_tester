@@ -9,4 +9,4 @@
 pip install -e .
 ```
 
-- Then you can run the script like: `creata <arguments>` 
+- Then you can run the script like: `creata <arguments>`
